@@ -88,6 +88,11 @@
 
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </details>
+
+<details>
+  [CIW Site Design](https://github.com/MagnusMarx/MagnusMarx/blob/main/PDF/CIW%20Site%20Development%20Associate%20certificate.pdf)
+</details>
+
 </div>
 <hr>
 <details>
