@@ -29,6 +29,8 @@
 
 <details>
 <summary>Skills</summary>
+  
+<img src="https://raw.githubusercontent.com/MagnusMarx/MagnusMarx/main/img/site_dev_assoc.jpg">
 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 
