@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[JavaScript OS](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
 
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx'>
 
