@@ -91,6 +91,7 @@
 
 <details>
 <summary>Certifications</summary>
+
   [CIW Site Design](https://github.com/MagnusMarx/MagnusMarx/blob/main/PDF/CIW%20Site%20Development%20Associate%20certificate.pdf)
 
 </details>
