@@ -3,12 +3,9 @@
     <br>
     My name is Adam!
   </h2>
-</div>
-
-<div align="center">
-
-|<img width='250px' height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx&theme=react'> | <img width='350px' height='250px' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MagnusMarx&theme=react'> |
-| ------------- | ------------- |
+  
+  |<img width='250px' height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx&theme=react'> | <img width='350px' height='250px' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MagnusMarx&theme=react'> |
+  | ------------- | ------------- |
 </div>
 
 <div style='float:left;'>
