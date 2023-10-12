@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://adamtrex.azurewebsites.net">
-    <h2 width="80%"/>Hey there!</h2>
+    <h2 width="80%">Hey there!</h2>
     <h3>My name is Adam!</h3>
   </a>
 </p>
