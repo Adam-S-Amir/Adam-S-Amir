@@ -1,4 +1,4 @@
-### 👋 Hey there
+<p align="center"><a href="https://adamtrex.azurewebsites.net"><h2 width="80%"/>Hey there!</h2><br><h3>My name is Adam!</h3></a></p>
 
 <div style="display: flex; flex-direction:column;float:right;">
 <img width='250px' style="flex:1;" height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx&theme=react'>
