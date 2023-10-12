@@ -1,15 +1,44 @@
-### Hi there 👋
+### 👋 Hey there
 
-
-<img align='right' width='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx'>
-
-<img align='right' width='350px' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MagnusMarx&theme=react'>
+<div style="display: flex; flex-direction:column;float:right;">
+<img width='250px' style="flex:1;" height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx&theme=react'>
+<img width='250px' style="flex:1;" height='250px' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MagnusMarx&theme=react'>
+</div>
 
 <div align='left'>
+<details>
+<summary>📦Notable Repo's</summary>
+| Icon | Name | Summary |
+| ---- | ---- | --------------- |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/2048/master/assets/img/ico.png'> | [2048](https://github.com/MagnusMarx/2048) | My run at re-making 2048 and games based off of 2048. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Shronkerton/main/Icon.png'> | [Shronkerton](https://github.com/MagnusMarx/Shronkerton) | A Shrek themed Android app. |
+| <img height='32' width='32' src='https://github.com/MagnusMarx/Prometheus/blob/master/assets/img/ios/icon-72x72.png'> | [Prometheus](https://github.com/MagnusMarx/Prometheus) | A GBC/GB emulator I re-made to be more efficient. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Rocket-Custa/master/assets/img/icon-48.png'> | [Rocket Custa](https://github.com/MagnusMarx/Rocket-Custa) | A broken JS based game I re-made and fixed. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Acid-Box/master/assets/img/AcidBox-32x32.png'> | [Acid-Box](https://github.com/MagnusMarx/Acid-Box) | WebGL project I remade to look like an Acid trip. |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Quake2-32x32.png'> | [Quake-2-PlayN-MagnusPort](https://github.com/MagnusMarx/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/VLC-Media-Web-Player/gh-pages/assets/img/VLC.svg'> | [VLC Media Web Player](https://github.com/MagnusMarx/VLC-Media-Web-Player) | I made a VLC Media Player themed video and picture player. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/WadCMD/master/Assets/Img/logo.png'> | [WadCMD](https://github.com/MagnusMarx/WadCMD) | My recreation of WadCMD to make it easier to use. |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Mario-32x32.png'> | [Infinite Mario](https://github.com/MagnusMarx/Infinite-Mario) | Brought back Infinite Mario from the Chrome Web Store. |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Rioluvania-32x32.png'> | [Rioluvania](https://github.com/MagnusMarx/Rioluvania) | An Undertale Sans fight clone with Riolu. |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Pong-32x32.png'> | [Pong](https://github.com/MagnusMarx/Pong) | My recreation from scratch in pure JS of the retro classic, Pong! |
+</details>
+
+<details>
+<summary>‍💻API'S</summary>
+| Icon | Name | Summary | Published On |
+| ---- | ---- | ------- | ------------ |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/NaCL/gh-pages/assets/img/Icon-32x32.png'> | [NaCL Checker](https://github.com/MagnusMarx/NaCL) | A JS based API that detects if Chrome's Native Client plugin is enabled. | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'><img src='https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white'> |
+| N/A | [Dynamic Menu](https://github.com/MagnusMarx/Dynamic-Menu) | A Upscale your website menu's with this purely JS API! | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'> |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/PHP-Chat-Room/main/favicon.ico'> | [PHP Chat Room](https://github.com/MagnusMarx/PHP-Chat-Room) | A .php chat room I made in about five minutes during my 10th grade English class. | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'> |
+</details>
+
+<details>
+<summary>🚧Projects</summary>
+[JavaScript OS](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
+</details>
 
 <details>
 <summary>Languages</summary>
-
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,12 +54,10 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <br>
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white">
-
 </details>
 
 <details>
 <summary>Skills</summary>
-  
 <img src="https://raw.githubusercontent.com/MagnusMarx/MagnusMarx/main/img/site_dev_assoc.jpg" width="40px" height="40px">
 <br>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -50,13 +77,10 @@
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
-<br>
-
 </details>
 
 <details>
 <summary>Recreation</summary>
-
 <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
@@ -80,69 +104,22 @@
 <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&logo=Republic%20of%20Gamers&logoColor=white">
-<br>
-
 </details>
 
 <details>
 <summary>IDE's</summary>
-
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<br>
-
 </details>
 
 <details>
 <summary>Certifications</summary>
-
-  [1D0-61B CIW Site Development Associate](https://github.com/MagnusMarx/MagnusMarx/blob/main/PDF/CIW%20Site%20Development%20Associate%20certificate.pdf)
-
+[1D0-61B CIW Site Development Associate](https://github.com/MagnusMarx/MagnusMarx/blob/main/PDF/CIW%20Site%20Development%20Associate%20certificate.pdf)
 </details>
-
 </div>
-<hr>
-
-<details>
-<summary>📦Notable Repo's</summary>
-
-| Icon | Name | Summary |
-| ---- | ---- | --------------- |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/2048/master/assets/img/ico.png'> | [2048](https://github.com/MagnusMarx/2048) | My run at re-making 2048 and games based off of 2048. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Shronkerton/main/Icon.png'> | [Shronkerton](https://github.com/MagnusMarx/Shronkerton) | A Shrek themed Android app. |
-| <img height='32' width='32' src='https://github.com/MagnusMarx/Prometheus/blob/master/assets/img/ios/icon-72x72.png'> | [Prometheus](https://github.com/MagnusMarx/Prometheus) | A GBC/GB emulator I re-made to be more efficient. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Rocket-Custa/master/assets/img/icon-48.png'> | [Rocket Custa](https://github.com/MagnusMarx/Rocket-Custa) | A broken JS based game I re-made and fixed. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Acid-Box/master/assets/img/AcidBox-32x32.png'> | [Acid-Box](https://github.com/MagnusMarx/Acid-Box) | WebGL project I remade to look like an Acid trip. |
-| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Quake2-32x32.png'> | [Quake-2-PlayN-MagnusPort](https://github.com/MagnusMarx/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/VLC-Media-Web-Player/gh-pages/assets/img/VLC.svg'> | [VLC Media Web Player](https://github.com/MagnusMarx/VLC-Media-Web-Player) | I made a VLC Media Player themed video and picture player. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/WadCMD/master/Assets/Img/logo.png'> | [WadCMD](https://github.com/MagnusMarx/WadCMD) | My recreation of WadCMD to make it easier to use. |
-| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Mario-32x32.png'> | [Infinite Mario](https://github.com/MagnusMarx/Infinite-Mario) | Brought back Infinite Mario from the Chrome Web Store. |
-| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Rioluvania-32x32.png'> | [Rioluvania](https://github.com/MagnusMarx/Rioluvania) | An Undertale Sans fight clone with Riolu. |
-| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Pong-32x32.png'> | [Pong](https://github.com/MagnusMarx/Pong) | My recreation from scratch in pure JS of the retro classic, Pong! |
-<!-- | Content Cell | Content Cell | -->
-  
-</details>
-
-<details>
-<summary>‍💻API'S</summary>
-
-| Icon | Name | Summary | Published On |
-| ---- | ---- | ------- | ------------ |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/NaCL/gh-pages/assets/img/Icon-32x32.png'> | [NaCL Checker](https://github.com/MagnusMarx/NaCL) | A JS based API that detects if Chrome's Native Client plugin is enabled. | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'><img src='https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white'> |
-| N/A | [Dynamic Menu](https://github.com/MagnusMarx/Dynamic-Menu) | A Upscale your website menu's with this purely JS API! | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'> |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/PHP-Chat-Room/main/favicon.ico'> | [PHP Chat Room](https://github.com/MagnusMarx/PHP-Chat-Room) | A .php chat room I made in about five minutes during my 10th grade English class. | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'> |
-
-</details>
-
-<details>
-<summary>🚧Projects</summary>
-
-[JavaScript OS](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
-
-</details>
 
 
 <!--
