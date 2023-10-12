@@ -8,6 +8,7 @@
 <div align='left'>
 <details>
 <summary>📦Notable Repo's</summary>
+
 | Icon | Name | Summary |
 | ---- | ---- | --------------- |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/2048/master/assets/img/ico.png'> | [2048](https://github.com/MagnusMarx/2048) | My run at re-making 2048 and games based off of 2048. |
@@ -25,6 +26,7 @@
 
 <details>
 <summary>‍💻API'S</summary>
+  
 | Icon | Name | Summary | Published On |
 | ---- | ---- | ------- | ------------ |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/NaCL/gh-pages/assets/img/Icon-32x32.png'> | [NaCL Checker](https://github.com/MagnusMarx/NaCL) | A JS based API that detects if Chrome's Native Client plugin is enabled. | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'><img src='https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white'> |
@@ -34,6 +36,7 @@
 
 <details>
 <summary>🚧Projects</summary>
+  
 [JavaScript OS](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
 </details>
 
@@ -117,6 +120,7 @@
 
 <details>
 <summary>Certifications</summary>
+
 [1D0-61B CIW Site Development Associate](https://github.com/MagnusMarx/MagnusMarx/blob/main/PDF/CIW%20Site%20Development%20Associate%20certificate.pdf)
 </details>
 </div>
