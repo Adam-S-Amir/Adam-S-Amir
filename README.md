@@ -1,10 +1,8 @@
 <div align="center">
-  <a href="https://adamtrex.azurewebsites.net">
-    <h2>Hey there!
+  <h2 href="https://adamtrex.azurewebsites.net">Hey there!
     <br>
-      My name is Adam!
-    </h2>
-  </a>
+    My name is Adam!
+  </h2>
 </div>
 
 <div style="display: flex; flex-direction:column;float:right;">
