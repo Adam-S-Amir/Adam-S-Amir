@@ -1,7 +1,9 @@
 <div align="center">
   <a href="https://adamtrex.azurewebsites.net">
-    <h2>Hey there!</h2>
-    <h3>My name is Adam!</h3>
+    <h2>Hey there!
+    <br>
+      My name is Adam!
+    </h2>
   </a>
 </div>
 
