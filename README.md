@@ -5,7 +5,7 @@
 <img width='250px' style="flex:1;" height='250px' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MagnusMarx&theme=react'>
 </div>
 
-<div align='left'>
+<div style='float:left;'>
 <details>
 <summary>📦Notable Repo's</summary>
 
