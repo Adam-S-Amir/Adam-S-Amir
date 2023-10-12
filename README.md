@@ -7,6 +7,9 @@
 
 <div align="center">
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 |      |      |
 | ---- | ---- |
 | <img width='250px' height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx&theme=react'> | <img width='350px' height='250px' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MagnusMarx&theme=react'> |
