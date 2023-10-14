@@ -4,7 +4,7 @@
     My name is Adam!
   </h2>
   
-  |<img width='250px' height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx&theme=react'> | <img width='350px' height='250px' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MagnusMarx&theme=react'> |
+  |<img width='250px' height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-S-Amir&theme=react'> | <img width='350px' height='250px' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adam-S-Amir&theme=react'> |
   | ------------- | ------------- |
 </div>
 
@@ -15,18 +15,18 @@
 
 | Icon | Name | Summary |
 | ---- | ---- | --------------- |
-| <img height='32' width='32' src='https://play-lh.googleusercontent.com/VGjI4-jlGcWIZCXxQvNOT0Ip0_7TXtELreyFmuXwNek6OOhfe5c6jzu5IK1XbD-fiOk=w240-h480-rw'> | [Too Smart Teens©](https://github.com/MagnusMarx/Too-Smart-Teens-App) | Too Smart Teens' purpose is to provide quick access to mental health resources for the youth. Designed by Adam Amir & Shelby Sorenson. |
-| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Quake2-32x32.png'> | [Quake 2 PlayN-MagnusPort](https://github.com/MagnusMarx/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/2048/master/assets/img/ico.png'> | [2048](https://github.com/MagnusMarx/2048) | My run at re-making 2048 and games based off of 2048. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Shronkerton/main/Icon.png'> | [Shronkerton](https://github.com/MagnusMarx/Shronkerton) | A Shrek themed Android app. |
-| <img height='32' width='32' src='https://github.com/MagnusMarx/Prometheus/blob/master/assets/img/ios/icon-72x72.png'> | [Prometheus](https://github.com/MagnusMarx/Prometheus) | A GBC/GB emulator I re-made to be more efficient. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Rocket-Custa/master/assets/img/icon-48.png'> | [Rocket Custa](https://github.com/MagnusMarx/Rocket-Custa) | A broken JS based game I re-made and fixed. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Acid-Box/master/assets/img/AcidBox-32x32.png'> | [Acid-Box](https://github.com/MagnusMarx/Acid-Box) | WebGL project I remade to look like an Acid trip. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/VLC-Media-Web-Player/gh-pages/assets/img/VLC.svg'> | [VLC Media Web Player](https://github.com/MagnusMarx/VLC-Media-Web-Player) | I made a VLC Media Player themed video and picture player. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/WadCMD/master/Assets/Img/logo.png'> | [WadCMD](https://github.com/MagnusMarx/WadCMD) | My recreation of WadCMD to make it easier to use. |
-| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Mario-32x32.png'> | [Infinite Mario](https://github.com/MagnusMarx/Infinite-Mario) | Brought back Infinite Mario from the Chrome Web Store. |
-| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Rioluvania-32x32.png'> | [Rioluvania](https://github.com/MagnusMarx/Rioluvania) | An Undertale Sans fight clone with Riolu. |
-| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Pong-32x32.png'> | [Pong](https://github.com/MagnusMarx/Pong) | My recreation from scratch in pure JS of the retro classic, Pong! |
+| <img height='32' width='32' src='https://play-lh.googleusercontent.com/VGjI4-jlGcWIZCXxQvNOT0Ip0_7TXtELreyFmuXwNek6OOhfe5c6jzu5IK1XbD-fiOk=w240-h480-rw'> | [Too Smart Teens©](https://github.com/Adam-S-Amir/Too-Smart-Teens-App) | Too Smart Teens' purpose is to provide quick access to mental health resources for the youth. Designed by Adam Amir & Shelby Sorenson. |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Quake2-32x32.png'> | [Quake 2 PlayN-MagnusPort](https://github.com/Adam-S-Amir/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/2048/master/assets/img/ico.png'> | [2048](https://github.com/Adam-S-Amir/2048) | My run at re-making 2048 and games based off of 2048. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/Shronkerton/main/Icon.png'> | [Shronkerton](https://github.com/Adam-S-Amir/Shronkerton) | A Shrek themed Android app. |
+| <img height='32' width='32' src='https://github.com/Adam-S-Amir/Prometheus/blob/master/assets/img/ios/icon-72x72.png'> | [Prometheus](https://github.com/Adam-S-Amir/Prometheus) | A GBC/GB emulator I re-made to be more efficient. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/Rocket-Custa/master/assets/img/icon-48.png'> | [Rocket Custa](https://github.com/Adam-S-Amir/Rocket-Custa) | A broken JS based game I re-made and fixed. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/Acid-Box/master/assets/img/AcidBox-32x32.png'> | [Acid-Box](https://github.com/Adam-S-Amir/Acid-Box) | WebGL project I remade to look like an Acid trip. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/VLC-Media-Web-Player/gh-pages/assets/img/VLC.svg'> | [VLC Media Web Player](https://github.com/Adam-S-Amir/VLC-Media-Web-Player) | I made a VLC Media Player themed video and picture player. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/WadCMD/master/Assets/Img/logo.png'> | [WadCMD](https://github.com/Adam-S-Amir/WadCMD) | My recreation of WadCMD to make it easier to use. |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Mario-32x32.png'> | [Infinite Mario](https://github.com/Adam-S-Amir/Infinite-Mario) | Brought back Infinite Mario from the Chrome Web Store. |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Rioluvania-32x32.png'> | [Rioluvania](https://github.com/Adam-S-Amir/Rioluvania) | An Undertale Sans fight clone with Riolu. |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Pong-32x32.png'> | [Pong](https://github.com/Adam-S-Amir/Pong) | My recreation from scratch in pure JS of the retro classic, Pong! |
 </div>
 </details>
 
@@ -36,9 +36,9 @@
   
 | Icon | Name | Summary | Published On |
 | ---- | ---- | ------- | ------------ |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/NaCL/gh-pages/assets/img/Icon-32x32.png'> | [NaCL Checker](https://github.com/MagnusMarx/NaCL) | A JS based API that detects if Chrome's Native Client plugin is enabled. | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'><img src='https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white'> |
-| N/A | [Dynamic Menu](https://github.com/MagnusMarx/Dynamic-Menu) | A Upscale your website menu's with this purely JS API! | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'> |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/PHP-Chat-Room/main/favicon.ico'> | [PHP Chat Room](https://github.com/MagnusMarx/PHP-Chat-Room) | A .php chat room I made in about five minutes during my 10th grade English class. | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'> |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/NaCL/gh-pages/assets/img/Icon-32x32.png'> | [NaCL Checker](https://github.com/Adam-S-Amir/NaCL) | A JS based API that detects if Chrome's Native Client plugin is enabled. | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'><img src='https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white'> |
+| N/A | [Dynamic Menu](https://github.com/Adam-S-Amir/Dynamic-Menu) | A Upscale your website menu's with this purely JS API! | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'> |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/PHP-Chat-Room/main/favicon.ico'> | [PHP Chat Room](https://github.com/Adam-S-Amir/PHP-Chat-Room) | A .php chat room I made in about five minutes during my 10th grade English class. | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'> |
 </div>
 </details>
 
@@ -48,9 +48,9 @@
 
 [JavaScript OS](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
 <br>
-[Quake-2-PlayN-MagnusPort](https://github.com/MagnusMarx/Quake2-PlayN-MagnusPort)
+[Quake-2-PlayN-MagnusPort](https://github.com/Adam-S-Amir/Quake2-PlayN-MagnusPort)
 <br>
-[Too Smart Teens©](https://github.com/MagnusMarx/Too-Smart-Teens-App)
+[Too Smart Teens©](https://github.com/Adam-S-Amir/Too-Smart-Teens-App)
 </div>
 </details>
 
@@ -80,7 +80,7 @@
 <summary>Skills</summary>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MagnusMarx/MagnusMarx/main/img/site_dev_assoc.jpg" width="40px" height="40px">
+<img src="https://raw.githubusercontent.com/Adam-S-Amir/Adam-S-Amir/main/img/site_dev_assoc.jpg" width="40px" height="40px">
 <br>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <br>
@@ -148,7 +148,7 @@
 <summary>Certifications</summary>
 <div align="center">
 
-[1D0-61B CIW Site Development Associate](https://github.com/MagnusMarx/MagnusMarx/blob/main/PDF/CIW%20Site%20Development%20Associate%20certificate.pdf)
+[1D0-61B CIW Site Development Associate](https://github.com/Adam-S-Amir/Adam-S-Amir/blob/main/PDF/CIW%20Site%20Development%20Associate%20certificate.pdf)
 </div>
 </details>
 </div>
@@ -159,7 +159,7 @@
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-<img src="https://metrics.lecoq.io/MagnusMarx?template=classic&isocalendar=1&lines=1&habits=1&achievements=1&notable=1&activity=1&gists=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=America%2FNew_York">
+<img src="https://metrics.lecoq.io/Adam-S-Amir?template=classic&isocalendar=1&lines=1&habits=1&achievements=1&notable=1&activity=1&gists=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=America%2FNew_York">
 -->
 <!--
 PacMan
