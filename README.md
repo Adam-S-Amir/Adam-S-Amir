@@ -15,7 +15,7 @@
 
 | Icon | Name | Summary |
 | ---- | ---- | --------------- |
-| <img height='32' width='32' src='https://play-lh.googleusercontent.com/VGjI4-jlGcWIZCXxQvNOT0Ip0_7TXtELreyFmuXwNek6OOhfe5c6jzu5IK1XbD-fiOk=w240-h480-rw'> | [Too Smart Teens](https://github.com/MagnusMarx/Too-Smart-Teens-App) | Too Smart Teens' purpose is to provide quick access to mental health resources for the youth. Designed by Adam Amir & Shelby Sorenson. |
+| <img height='32' width='32' src='https://play-lh.googleusercontent.com/VGjI4-jlGcWIZCXxQvNOT0Ip0_7TXtELreyFmuXwNek6OOhfe5c6jzu5IK1XbD-fiOk=w240-h480-rw'> | [Too Smart Teens©](https://github.com/MagnusMarx/Too-Smart-Teens-App) | Too Smart Teens' purpose is to provide quick access to mental health resources for the youth. Designed by Adam Amir & Shelby Sorenson. |
 | <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Quake2-32x32.png'> | [Quake 2 PlayN-MagnusPort](https://github.com/MagnusMarx/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/2048/master/assets/img/ico.png'> | [2048](https://github.com/MagnusMarx/2048) | My run at re-making 2048 and games based off of 2048. |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Shronkerton/main/Icon.png'> | [Shronkerton](https://github.com/MagnusMarx/Shronkerton) | A Shrek themed Android app. |
