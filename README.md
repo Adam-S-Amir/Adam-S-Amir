@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 href="https://adamtrex.azurewebsites.net">Hey there!
+  <h2>Hey there!
     <br>
     My name is Adam!
   </h2>
