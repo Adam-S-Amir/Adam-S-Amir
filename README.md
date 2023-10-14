@@ -1,8 +1,8 @@
 <div align="center">
-  <h2>Hey there!
-    <br>
-    My name is Adam!
-  </h2>
+
+  ## Hey There!
+
+  ## My Name is Adam Amir!
   
   |<img width='250px' height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-S-Amir&theme=react'> | <img width='350px' height='250px' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adam-S-Amir&theme=react'> |
   | ------------- | ------------- |
