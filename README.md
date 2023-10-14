@@ -46,6 +46,8 @@
 <div align='center'>
 
 [JavaScript OS](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
+[Quake-2-PlayN-MagnusPort](https://github.com/MagnusMarx/Quake2-PlayN-MagnusPort)
+[Too Smart Teens©](https://github.com/MagnusMarx/Too-Smart-Teens-App)
 </div>
 </details>
 
