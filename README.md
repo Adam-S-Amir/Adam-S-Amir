@@ -31,22 +31,27 @@
 
 <details>
 <summary>‍💻API'S</summary>
+<div align="center">
   
 | Icon | Name | Summary | Published On |
 | ---- | ---- | ------- | ------------ |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/NaCL/gh-pages/assets/img/Icon-32x32.png'> | [NaCL Checker](https://github.com/MagnusMarx/NaCL) | A JS based API that detects if Chrome's Native Client plugin is enabled. | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'><img src='https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white'> |
 | N/A | [Dynamic Menu](https://github.com/MagnusMarx/Dynamic-Menu) | A Upscale your website menu's with this purely JS API! | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'> |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/PHP-Chat-Room/main/favicon.ico'> | [PHP Chat Room](https://github.com/MagnusMarx/PHP-Chat-Room) | A .php chat room I made in about five minutes during my 10th grade English class. | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'> |
+</div>
 </details>
 
 <details>
 <summary>🚧Projects</summary>
   
 [JavaScript OS](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
+</div>
 </details>
 
 <details>
 <summary>Languages</summary>
+<div align="center">
+
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -62,10 +67,13 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <br>
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white">
+</div>
 </details>
 
 <details>
 <summary>Skills</summary>
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/MagnusMarx/MagnusMarx/main/img/site_dev_assoc.jpg" width="40px" height="40px">
 <br>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -85,10 +93,13 @@
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
+</div>
 </details>
 
 <details>
 <summary>Recreation</summary>
+<div align="center">
+
 <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
@@ -112,21 +123,27 @@
 <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&logo=Republic%20of%20Gamers&logoColor=white">
+</div>
 </details>
 
 <details>
 <summary>IDE's</summary>
+<div align="center">
+
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+</div>
 </details>
 
 <details>
 <summary>Certifications</summary>
+<div align="center">
 
 [1D0-61B CIW Site Development Associate](https://github.com/MagnusMarx/MagnusMarx/blob/main/PDF/CIW%20Site%20Development%20Associate%20certificate.pdf)
+</div>
 </details>
 </div>
 
