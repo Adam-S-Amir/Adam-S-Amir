@@ -43,7 +43,8 @@
 
 <details>
 <summary>🚧Projects</summary>
-  
+<div align='center'>
+
 [JavaScript OS](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
 </div>
 </details>
