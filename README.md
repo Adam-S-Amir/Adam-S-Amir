@@ -11,6 +11,7 @@
 <div style='float:left;'>
 <details>
 <summary>📦Notable Repo's</summary>
+<div align="center">
 
 | Icon | Name | Summary |
 | ---- | ---- | --------------- |
@@ -25,6 +26,7 @@
 | <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Mario-32x32.png'> | [Infinite Mario](https://github.com/MagnusMarx/Infinite-Mario) | Brought back Infinite Mario from the Chrome Web Store. |
 | <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Rioluvania-32x32.png'> | [Rioluvania](https://github.com/MagnusMarx/Rioluvania) | An Undertale Sans fight clone with Riolu. |
 | <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Pong-32x32.png'> | [Pong](https://github.com/MagnusMarx/Pong) | My recreation from scratch in pure JS of the retro classic, Pong! |
+</div>
 </details>
 
 <details>
