@@ -41,14 +41,19 @@
 </details>
 
 <details>
-<summary>🚧Projects</summary>
+<summary>🚧On-going Projects</summary>
 <div align='center'>
 
+[MineCrap](https://github.com/Adam-S-Amir/Minecrap-1.5.2)
+<br>
 [JavaScript OS](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
+<br>
+[Quake-2-libgdx-port](https://github.com/Adam-S-Amir/Quake-2-libgdx-port)
+<br>
+[Minecraft GWT Test Port](https://github.com/Adam-S-Amir/Minecraft-GWT-Test)
 <br>
 [Quake-2-PlayN-MagnusPort](https://github.com/Adam-S-Amir/Quake2-PlayN-MagnusPort)
 <br>
-[Too Smart Teens©](https://github.com/Adam-S-Amir/Too-Smart-Teens-App)
 </div>
 </details>
 
