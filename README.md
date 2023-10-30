@@ -46,7 +46,7 @@
 
 [MineCrap](https://github.com/Adam-S-Amir/Minecrap-1.5.2)
 <br>
-[JavaScript OS](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
+[MagnusWare OS](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
 <br>
 [MagnusWare-Dev](https://github.com/Adam-S-Amir/MagnusWare-Dev)
 <br>
