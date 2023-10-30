@@ -48,6 +48,8 @@
 <br>
 [JavaScript OS](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
 <br>
+[MagnusWare-Dev](https://github.com/Adam-S-Amir/MagnusWare-Dev)
+<br>
 [Quake-2-libgdx-port](https://github.com/Adam-S-Amir/Quake-2-libgdx-port)
 <br>
 [Minecraft GWT Test Port](https://github.com/Adam-S-Amir/Minecraft-GWT-Test)
