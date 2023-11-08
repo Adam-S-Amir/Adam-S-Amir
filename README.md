@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary>Languages</summary>
+<summary>🗨Languages</summary>
 <div align="center">
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -82,7 +82,7 @@
 </details>
 
 <details>
-<summary>Skills</summary>
+<summary>⭐Skills</summary>
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Adam-S-Amir/Adam-S-Amir/main/img/site_dev_assoc.jpg" width="40px" height="40px">
@@ -108,7 +108,7 @@
 </details>
 
 <details>
-<summary>Recreation</summary>
+<summary>🎮Recreation</summary>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
@@ -138,7 +138,7 @@
 </details>
 
 <details>
-<summary>IDE's</summary>
+<summary>📂IDE's</summary>
 <div align="center">
 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -150,7 +150,7 @@
 </details>
 
 <details>
-<summary>Certifications</summary>
+<summary>💳Certifications</summary>
 <div align="center">
 
 [1D0-61B CIW Site Development Associate](https://github.com/Adam-S-Amir/Adam-S-Amir/blob/main/PDF/CIW%20Site%20Development%20Associate%20certificate.pdf)
@@ -171,13 +171,10 @@ PacMan
 Google PacMan
 Space Invaders
 Tetris
-Jelly Tetris
 Dino
 3D
 Funky Karts
 Mario
-MC
-Sans
 Spelunky
 FIX TBOI
 Vending Machine
