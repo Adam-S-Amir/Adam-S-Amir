@@ -3,7 +3,7 @@
   ## Hey There! <br> My Name is Adam Amir!
   
   |<img width='250px' height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-S-Amir&theme=react'> | <img width='350px' height='250px' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adam-S-Amir&theme=react'> |
-  | ---- | ---- | ---- |
+  | ---- | ---- | 
 </div>
 
 <!-- | ![Metrics](https://metrics.lecoq.io/Adam-S-Amir?template=terminal&base.hireable=true&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=America%2FNew_York) | -->
