@@ -48,9 +48,9 @@
 <br>
 [MineCrap](https://github.com/Adam-S-Amir/Minecrap-1.5.2)
 <br>
-[MagnusWare v3.2](https://adamtrex.azurewebsites.net/index.html "MagnusWare")
+[MagnusWare v3.2](https://adamtrex.azurewebsites.net/index.html "MagnusWare v3.2")
 <br>
-[MagnusWare v4.0](https://github.com/Adam-S-Amir/MagnusWare-Dev)
+[MagnusWare v4.0](https://magnusware.vercel.app/index.html "MagnuWare v4.0")
 <br>
 [Quake-2-libgdx-port](https://github.com/Adam-S-Amir/Quake-2-libgdx-port)
 <br>
