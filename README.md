@@ -27,6 +27,7 @@
 | <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Mario-32x32.png'> | [Infinite Mario](https://github.com/Adam-S-Amir/Infinite-Mario) | Brought back Infinite Mario from the Chrome Web Store. |
 | <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Rioluvania-32x32.png'> | [Rioluvania](https://github.com/Adam-S-Amir/Rioluvania) | An Undertale Sans fight clone with Riolu. |
 | <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Pong-32x32.png'> | [Pong](https://github.com/Adam-S-Amir/Pong) | My recreation from scratch in pure JS of the retro classic, Pong! |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg'> | [Ryujinx Shortcut](https://github.com/Adam-S-Amir/Ryujinx-Shortcut) | Windows executable to quickly launch any switch game on the Ryujinx emulator. |
 </div>
 </details>
 
