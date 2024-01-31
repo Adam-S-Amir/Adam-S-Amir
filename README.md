@@ -176,7 +176,6 @@ Space Invaders
 Tetris
 Dino
 3D
-Funky Karts
 Mario
 Spelunky
 FIX TBOI
