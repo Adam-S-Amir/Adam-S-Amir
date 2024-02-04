@@ -13,22 +13,22 @@
 <summary>📦Notable Repo's</summary>
 <div align="center">
 
-| Icon | Name | Summary |
-| ---- | ---- | --------------- |
-| <img height='32' width='32' src='https://play-lh.googleusercontent.com/VGjI4-jlGcWIZCXxQvNOT0Ip0_7TXtELreyFmuXwNek6OOhfe5c6jzu5IK1XbD-fiOk=w240-h480-rw'> | [Too Smart Teens©](https://github.com/Adam-S-Amir/Too-Smart-Teens-App) | Too Smart Teens' purpose is to provide quick access to mental health resources for the youth. Designed by Adam Amir & Shelby Sorenson. |
-| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Quake2-32x32.png'> | [Quake 2 PlayN-MagnusPort](https://github.com/Adam-S-Amir/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/2048/master/assets/img/ico.png'> | [2048](https://github.com/Adam-S-Amir/2048) | My run at re-making 2048 and games based off of 2048. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/Shronkerton/main/Icon.png'> | [Shronkerton](https://github.com/Adam-S-Amir/Shronkerton) | A Shrek themed Android app. |
-| <img height='32' width='32' src='https://prometheuz.vercel.app/assets/img/ios/icon-72x72.png'> | [Prometheus](https://github.com/Adam-S-Amir/Prometheus) | A GBC/GB emulator I re-made to be more efficient. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/Rocket-Custa/master/assets/img/icon-48.png'> | [Rocket Custa](https://github.com/Adam-S-Amir/Rocket-Custa) | A broken JS based game I re-made and fixed. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/Acid-Box/master/assets/img/AcidBox-32x32.png'> | [Acid-Box](https://github.com/Adam-S-Amir/Acid-Box) | WebGL project I remade to look like an Acid trip. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/VLC-Media-Web-Player/gh-pages/assets/img/VLC.svg'> | [VLC Media Web Player](https://github.com/Adam-S-Amir/VLC-Media-Web-Player) | I made a VLC Media Player themed video and picture player. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/WadCMD/master/Assets/Img/logo.png'> | [WadCMD](https://github.com/Adam-S-Amir/WadCMD) | My recreation of WadCMD to make it easier to use. |
-| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Mario-32x32.png'> | [Infinite Mario](https://github.com/Adam-S-Amir/Infinite-Mario) | Brought back Infinite Mario from the Chrome Web Store. |
-| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Rioluvania-32x32.png'> | [Rioluvania](https://github.com/Adam-S-Amir/Rioluvania) | An Undertale Sans fight clone with Riolu. |
-| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Pong-32x32.png'> | [Pong](https://github.com/Adam-S-Amir/Pong) | My recreation from scratch in pure JS of the retro classic, Pong! |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg'> | [Ryujinx Shortcut](https://github.com/Adam-S-Amir/Ryujinx-Shortcut) | Windows executable to quickly launch any switch game on the Ryujinx emulator. |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/seerge/g-helper/main/app/favicon.ico'> | [G-Helper Updater](https://github.com/Adam-S-Amir/G-Helper-Updater) | G-Helper software (not made by me) with an Download/Update script |
+| Icon | Name | Summary | Built With |
+| ---- | ---- | --------------- | ---- |
+| <img height='32' width='32' src='https://play-lh.googleusercontent.com/VGjI4-jlGcWIZCXxQvNOT0Ip0_7TXtELreyFmuXwNek6OOhfe5c6jzu5IK1XbD-fiOk=w240-h480-rw'> | [Too Smart Teens©](https://github.com/Adam-S-Amir/Too-Smart-Teens-App) | Too Smart Teens' purpose is to provide quick access to mental health resources for the youth. Designed by Adam Amir & Shelby Sorenson. | ---- |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Quake2-32x32.png'> | [Quake 2 PlayN-MagnusPort](https://github.com/Adam-S-Amir/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. | ---- |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/2048/master/assets/img/ico.png'> | [2048](https://github.com/Adam-S-Amir/2048) | My run at re-making 2048 and games based off of 2048. | ---- |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/Shronkerton/main/Icon.png'> | [Shronkerton](https://github.com/Adam-S-Amir/Shronkerton) | A Shrek themed Android app. | ---- |
+| <img height='32' width='32' src='https://prometheuz.vercel.app/assets/img/ios/icon-72x72.png'> | [Prometheus](https://github.com/Adam-S-Amir/Prometheus) | A GBC/GB emulator I re-made to be more efficient. | ---- |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/Rocket-Custa/master/assets/img/icon-48.png'> | [Rocket Custa](https://github.com/Adam-S-Amir/Rocket-Custa) | A broken JS based game I re-made and fixed. | ---- |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/Acid-Box/master/assets/img/AcidBox-32x32.png'> | [Acid-Box](https://github.com/Adam-S-Amir/Acid-Box) | WebGL project I remade to look like an Acid trip. | ---- |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/VLC-Media-Web-Player/gh-pages/assets/img/VLC.svg'> | [VLC Media Web Player](https://github.com/Adam-S-Amir/VLC-Media-Web-Player) | I made a VLC Media Player themed video and picture player. | ---- |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/WadCMD/master/Assets/Img/logo.png'> | [WadCMD](https://github.com/Adam-S-Amir/WadCMD) | My recreation of WadCMD to make it easier to use. | ---- |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Mario-32x32.png'> | [Infinite Mario](https://github.com/Adam-S-Amir/Infinite-Mario) | Brought back Infinite Mario from the Chrome Web Store. | ---- |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Rioluvania-32x32.png'> | [Rioluvania](https://github.com/Adam-S-Amir/Rioluvania) | An Undertale Sans fight clone with Riolu. | ---- |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Pong-32x32.png'> | [Pong](https://github.com/Adam-S-Amir/Pong) | My recreation from scratch in pure JS of the retro classic, Pong! | ---- |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg'> | [Ryujinx Shortcut](https://github.com/Adam-S-Amir/Ryujinx-Shortcut) | Windows executable to quickly launch any switch game on the Ryujinx emulator. | ---- |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/seerge/g-helper/main/app/favicon.ico'> | [G-Helper Updater](https://github.com/Adam-S-Amir/G-Helper-Updater) | G-Helper software (not made by me) with an Download/Update script | ---- |
 </div>
 </details>
 
@@ -83,7 +83,7 @@
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
 <br>
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white">
 </div>
