@@ -10,6 +10,31 @@
 <!-- https://github-readme-stats.vercel.app/api?username=Adam-S-Amir&theme=algolia&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true -->
 <!-- | ![Metrics](https://metrics.lecoq.io/Adam-S-Amir?template=terminal&base.hireable=true&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=America%2FNew_York) | -->
 
+<div style='float:left'>
+<details>
+<summary>📄About Me</summary>
+<div align='left'>
+  <h5>
+    I'm a highschool student who enjoys programming. Here's a short list of subjects I "specialize" in:
+  </h5>
+  <ol>
+    <li>
+      📱Android App Development
+    </li>
+    <li>
+      💻.NET Framework 
+    </li>
+    <li>
+      🌐Web Development (DHTML)
+    </li>
+  </ol>
+</div>
+  
+</details>
+
+
+</div>
+
 <div style='float:left;'>
 <details>
 <summary>📦Notable Repo's</summary>
