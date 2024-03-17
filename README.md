@@ -40,10 +40,12 @@
 <summary>📦Notable Repo's</summary>
 <div align="center">
 
+<!-- | <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/BensBoyz-Android-Application/main/app/src/main/res/drawable/logo.png'> | [Ben's Boyz©](https://github.com/Adam-S-Amir/BensBoyz-Android-Application) | An Android application to help enhance the marketing efforts of the Ben’s Boyz brand. | <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white"> | -->
+
+
 | Icon | Name | Summary | Built With |
 | ---- | ---- | --------------- | ---- |
 | <img height='32' width='32' src='https://play-lh.googleusercontent.com/VGjI4-jlGcWIZCXxQvNOT0Ip0_7TXtELreyFmuXwNek6OOhfe5c6jzu5IK1XbD-fiOk=w240-h480-rw'> | [Too Smart Teens©](https://github.com/Adam-S-Amir/Too-Smart-Teens-App) | Too Smart Teens' purpose is to provide quick access to mental health resources for the youth. Designed by Adam Amir & Shelby Sorenson. | <img src="https://img.shields.io/badge/Java-F7942E?style=for-the-badge&logo=coffeescript&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white"> |
-| <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/BensBoyz-Android-Application/main/app/src/main/res/drawable/logo.png'> | [Ben's Boyz©](https://github.com/Adam-S-Amir/BensBoyz-Android-Application) | An Android application to help enhance the marketing efforts of the Ben’s Boyz brand. | <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white"> |
 | <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Quake2-32x32.png'> | [Quake 2 PlayN-MagnusPort](https://github.com/Adam-S-Amir/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. | <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"> |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/2048/master/assets/img/ico.png'> | [2048](https://github.com/Adam-S-Amir/2048) | My run at re-making 2048 and games based off of 2048. | <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"> |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/Shronkerton/main/Icon.png'> | [Shronkerton](https://github.com/Adam-S-Amir/Shronkerton) | A Shrek themed Android app. | <img src="https://img.shields.io/badge/Java-F7942E?style=for-the-badge&logo=coffeescript&logoColor=white"> |
