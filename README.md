@@ -78,8 +78,6 @@
 <summary>🚧On-going Projects</summary>
 <div align='center'>
 
-[FBLA](https://github.com/Adam-S-Amir/FBLA)
-<br>
 [MineCrap](https://github.com/Adam-S-Amir/Minecrap-1.5.2)
 <br>
 [MagnusWare v3.2](https://adamtrex.azurewebsites.net/index.html "MagnusWare v3.2")
