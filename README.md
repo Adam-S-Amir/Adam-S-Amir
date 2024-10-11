@@ -26,6 +26,9 @@
       🌐Web Development
     </li>
   </ol>
+  <h5>
+    Additionally, I'm studying for the CCNA certification, exam date is January 30th, 2025.
+  </h5>
 </div>
   
 </details>
@@ -98,8 +101,6 @@
 <div align="left">
 
 [1D0-61B CIW Site Development Associate](https://github.com/Adam-S-Amir/Adam-S-Amir/blob/main/PDF/CIW%20Site%20Development%20Associate%20certificate.pdf)
-
-Studying for the CCNA - 01/30/2025
 </div>
 </details>
 </div>
