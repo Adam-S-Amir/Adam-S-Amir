@@ -1,12 +1,17 @@
 <div align="center">
   
-  | <img width='350px' height='250px' src='https://awesome-github-stats.azurewebsites.net/user-stats/adam-s-amir?cardType=level-alternate&theme=algolia&preferLogin=false&Border=00000000'> | <img width='350px' height='250px' src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adam-s-amir&theme=algolia'> | <img width='350px' height='250px' src='https://github-readme-streak-stats.herokuapp.com/?user=adam-s-amir&theme=algolia&hide_border=true'> |
-  | ---- | ---- | ---- |
+| <img height='135px' src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adam-s-amir&theme=algolia'> | <img width='350px' height='250px' src='https://github-readme-streak-stats.herokuapp.com/?user=adam-s-amir&theme=algolia&hide_border=true'> |
+| ---- | ---- |
 </div>
 
 
-<!-- https://github-readme-stats.vercel.app/api?username=Adam-S-Amir&theme=algolia&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true -->
-<!-- | ![Metrics](https://metrics.lecoq.io/Adam-S-Amir?template=terminal&base.hireable=true&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=America%2FNew_York) | -->
+<!--
+
+https://github-readme-stats.vercel.app/api?username=Adam-S-Amir&theme=algolia&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true
+<img width='350px' height='250px' src='https://awesome-github-stats.azurewebsites.net/user-stats/adam-s-amir?cardType=level-alternate&theme=algolia&preferLogin=false&Border=00000000'> 
+![Metrics](https://metrics.lecoq.io/Adam-S-Amir?template=terminal&base.hireable=true&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=America%2FNew_York)
+
+-->
 
 <div style='float:left'>
 <details>
