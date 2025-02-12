@@ -32,7 +32,7 @@ https://github-readme-stats.vercel.app/api?username=Adam-S-Amir&theme=algolia&ra
     </li>
   </ol>
   <h5>
-    Additionally, I'm studying for the CCNA certification, exam date is January 30th, 2025.
+    Additionally, I'm studying for the CCNA certification by August 2025.
   </h5>
 </div>
   
