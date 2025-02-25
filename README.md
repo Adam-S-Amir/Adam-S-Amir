@@ -1,10 +1,3 @@
-<div align="center">
-  
-| <img height='135px' src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adam-s-amir&theme=algolia'> | <img width='350px' height='250px' src='https://github-readme-streak-stats.herokuapp.com/?user=adam-s-amir&theme=algolia&hide_border=true'> |
-| ---- | ---- |
-</div>
-
-
 <!--
 
 https://github-readme-stats.vercel.app/api?username=Adam-S-Amir&theme=algolia&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true
@@ -105,6 +98,12 @@ https://github-readme-stats.vercel.app/api?username=Adam-S-Amir&theme=algolia&ra
 [1D0-61B CIW Site Development Associate](https://github.com/Adam-S-Amir/Adam-S-Amir/blob/main/PDF/CIW%20Site%20Development%20Associate%20certificate.pdf)
 </div>
 </details>
+</div>
+
+<div align="left">
+  
+| <img height='135px' src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adam-s-amir&theme=algolia'> | <img width='350px' height='250px' src='https://github-readme-streak-stats.herokuapp.com/?user=adam-s-amir&theme=algolia&hide_border=true'> |
+| ---- | ---- |
 </div>
 
 
