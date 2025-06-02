@@ -1,10 +1,13 @@
+Rewrite in progress
+
 <!--
 
+<!--
 https://github-readme-stats.vercel.app/api?username=Adam-S-Amir&theme=algolia&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true
 <img width='350px' height='250px' src='https://awesome-github-stats.azurewebsites.net/user-stats/adam-s-amir?cardType=level-alternate&theme=algolia&preferLogin=false&Border=00000000'> 
 ![Metrics](https://metrics.lecoq.io/Adam-S-Amir?template=terminal&base.hireable=true&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=America%2FNew_York)
 
--->
+--*>
 
 <div style='float:left'>
 <details>
