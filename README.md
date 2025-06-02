@@ -2,12 +2,10 @@ Rewrite in progress
 
 <!--
 
-<!--
 https://github-readme-stats.vercel.app/api?username=Adam-S-Amir&theme=algolia&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true
 <img width='350px' height='250px' src='https://awesome-github-stats.azurewebsites.net/user-stats/adam-s-amir?cardType=level-alternate&theme=algolia&preferLogin=false&Border=00000000'> 
 ![Metrics](https://metrics.lecoq.io/Adam-S-Amir?template=terminal&base.hireable=true&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=America%2FNew_York)
 
---*>
 
 <div style='float:left'>
 <details>
@@ -41,8 +39,6 @@ https://github-readme-stats.vercel.app/api?username=Adam-S-Amir&theme=algolia&ra
 <details>
 <summary>📦Notable Repo's</summary>
 <div align="center">
-
-<!-- | <img height='32' width='32' src='https://raw.githubusercontent.com/Adam-S-Amir/BensBoyz-Android-Application/main/app/src/main/res/drawable/logo.png'> | [Ben's Boyz©](https://github.com/Adam-S-Amir/BensBoyz-Android-Application) | An Android application to help enhance the marketing efforts of the Ben’s Boyz brand. | <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white"> | -->
 
 
 | Icon | Name | Summary | Built With |
@@ -110,7 +106,6 @@ https://github-readme-stats.vercel.app/api?username=Adam-S-Amir&theme=algolia&ra
 </div>
 
 
-<!--
 <img src="https://metrics.lecoq.io/Adam-S-Amir?template=classic&isocalendar=1&lines=1&habits=1&achievements=1&notable=1&activity=1&gists=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=America%2FNew_York">
 
 PacMan
