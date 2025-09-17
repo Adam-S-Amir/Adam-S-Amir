@@ -1,6 +1,6 @@
-Rewrite in progress
 
 <!--
+Rewrite in progress
 
 https://github-readme-stats.vercel.app/api?username=Adam-S-Amir&theme=algolia&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true
 <img width='350px' height='250px' src='https://awesome-github-stats.azurewebsites.net/user-stats/adam-s-amir?cardType=level-alternate&theme=algolia&preferLogin=false&Border=00000000'> 
