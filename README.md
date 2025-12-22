@@ -1,6 +1,6 @@
 my GitHub used to function as a work portfolio, however i don't wanna work in CS anymore.
 
-so now, this is my archive of any and all programming projects ive got.
+so now, this is an archive of any and all programming projects ive got.
 
 
 <!--
