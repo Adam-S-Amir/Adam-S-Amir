@@ -1,3 +1,9 @@
+my GitHub used to function as a work portfolio, however i don't wanna work in CS anymore.
+
+so now, this is my archive of any and all programming projects I do.
+
+nothing here is serious, it's all shits & giggles.
+
 
 <!--
 Rewrite in progress
