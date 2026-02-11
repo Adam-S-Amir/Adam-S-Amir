@@ -1,7 +1,4 @@
-my GitHub used to function as a work portfolio, however i don't wanna work in CS anymore. i used to be way into programming, now it's just this cool skill i have that got boring after a while.
-
-so now, this is an archive of any and all programming projects ive got.
-
+i make stuff
 
 <!--
 Rewrite in progress
